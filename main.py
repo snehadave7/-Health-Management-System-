@@ -1,3 +1,11 @@
+# Creating files for 3 person
+f=open("Person_1_food","x")
+f=open("Person_2_food","x")
+f=open("Person_3_food","x")
+
+f=open("Person_1_exercise","x")
+f=open("Person_2_exercise","x")
+f=open("Person_3_exercise","x")
 import datetime
 def getdate():
     import datetime
